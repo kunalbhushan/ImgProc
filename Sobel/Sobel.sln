@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sobel", "Sobel\Sobel.vcxproj", "{DCA669EA-2283-458E-9525-EE72A1E10A82}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SobelColor", "ConsoleApplication1\ConsoleApplication1.vcxproj", "{6700BDE4-0006-49C1-8A46-9DEB0C97C1A0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SobelFile", "SobelFile\SobelFile.vcxproj", "{3100AEFE-E7D2-413E-86DA-6A76D47187BE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GUIAttempt", "GUIAttempt\GUIAttempt.vcxproj", "{EBB04849-C2B5-4353-8053-4831AA8185E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3100AEFE-E7D2-413E-86DA-6A76D47187BE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3100AEFE-E7D2-413E-86DA-6A76D47187BE}.Debug|Win32.Build.0 = Debug|Win32
+		{3100AEFE-E7D2-413E-86DA-6A76D47187BE}.Release|Win32.ActiveCfg = Release|Win32
+		{3100AEFE-E7D2-413E-86DA-6A76D47187BE}.Release|Win32.Build.0 = Release|Win32
+		{6700BDE4-0006-49C1-8A46-9DEB0C97C1A0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6700BDE4-0006-49C1-8A46-9DEB0C97C1A0}.Debug|Win32.Build.0 = Debug|Win32
+		{6700BDE4-0006-49C1-8A46-9DEB0C97C1A0}.Release|Win32.ActiveCfg = Release|Win32
+		{6700BDE4-0006-49C1-8A46-9DEB0C97C1A0}.Release|Win32.Build.0 = Release|Win32
+		{DCA669EA-2283-458E-9525-EE72A1E10A82}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DCA669EA-2283-458E-9525-EE72A1E10A82}.Debug|Win32.Build.0 = Debug|Win32
+		{DCA669EA-2283-458E-9525-EE72A1E10A82}.Release|Win32.ActiveCfg = Release|Win32
+		{DCA669EA-2283-458E-9525-EE72A1E10A82}.Release|Win32.Build.0 = Release|Win32
+		{EBB04849-C2B5-4353-8053-4831AA8185E4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EBB04849-C2B5-4353-8053-4831AA8185E4}.Debug|Win32.Build.0 = Debug|Win32
+		{EBB04849-C2B5-4353-8053-4831AA8185E4}.Release|Win32.ActiveCfg = Release|Win32
+		{EBB04849-C2B5-4353-8053-4831AA8185E4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
